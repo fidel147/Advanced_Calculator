@@ -27,4 +27,4 @@ htmlcov/
 Thumbs.db
 *.swp
 *.swo
-*.vscode/
+.vscode/
