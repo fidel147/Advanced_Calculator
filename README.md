@@ -153,4 +153,4 @@ External GitHub avatar loading and profile links require network access; local c
 
 ## License
 
-No license has been selected yet. Add a license before distributing AdvancedCal publicly if you want to define reuse and contribution terms.
+No license has been selected yet.
