@@ -1,0 +1,9 @@
+customtkinter
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+scikit-learn
+scipy
+sympy
